@@ -1,6 +1,17 @@
-﻿using Northwind.ConsoleApp.Services;
+﻿using Microsoft.Extensions.Hosting;
+using Northwind.ConsoleApp.Services;
 using Northwind.Writers;
-using NorthWind.Entities.Interfaces;
+using NorthWind.Entities.Interfaces; 
+using Microsoft.Extensions.DependencyInjection;
+
+var Builder = Host.CreateApplicationBuilder();
+Builder.Services.AddConsoleWriter();
+Builder.Services.AddDebugWriter();
+Builder.Services.AddFileWriter();
+Builder.Services.AddSingleton<AppLogger>();
+Builder.Services.AddSingleton<ProductService>();
+using var AppHost = Builder.Build();
+
 
 IUserActionWriter Writer = new DebugWriter();
 
