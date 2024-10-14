@@ -1,0 +1,15 @@
+C:\curso\NorthWind\NorthWind\Northwind.Writers\bin\Debug\net7.0\Northwind.Writers.deps.json
+C:\curso\NorthWind\NorthWind\Northwind.Writers\bin\Debug\net7.0\Northwind.Writers.dll
+C:\curso\NorthWind\NorthWind\Northwind.Writers\bin\Debug\net7.0\Northwind.Writers.pdb
+C:\curso\NorthWind\NorthWind\Northwind.Writers\bin\Debug\net7.0\NorthWind.Entities.dll
+C:\curso\NorthWind\NorthWind\Northwind.Writers\bin\Debug\net7.0\NorthWind.Entities.pdb
+C:\curso\NorthWind\NorthWind\Northwind.Writers\obj\Debug\net7.0\Northwind.Writers.csproj.AssemblyReference.cache
+C:\curso\NorthWind\NorthWind\Northwind.Writers\obj\Debug\net7.0\Northwind.Writers.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\NorthWind\NorthWind\Northwind.Writers\obj\Debug\net7.0\Northwind.Writers.AssemblyInfoInputs.cache
+C:\curso\NorthWind\NorthWind\Northwind.Writers\obj\Debug\net7.0\Northwind.Writers.AssemblyInfo.cs
+C:\curso\NorthWind\NorthWind\Northwind.Writers\obj\Debug\net7.0\Northwind.Writers.csproj.CoreCompileInputs.cache
+C:\curso\NorthWind\NorthWind\Northwind.Writers\obj\Debug\net7.0\Northwind.Writers.csproj.CopyComplete
+C:\curso\NorthWind\NorthWind\Northwind.Writers\obj\Debug\net7.0\Northwind.Writers.dll
+C:\curso\NorthWind\NorthWind\Northwind.Writers\obj\Debug\net7.0\refint\Northwind.Writers.dll
+C:\curso\NorthWind\NorthWind\Northwind.Writers\obj\Debug\net7.0\Northwind.Writers.pdb
+C:\curso\NorthWind\NorthWind\Northwind.Writers\obj\Debug\net7.0\ref\Northwind.Writers.dll
