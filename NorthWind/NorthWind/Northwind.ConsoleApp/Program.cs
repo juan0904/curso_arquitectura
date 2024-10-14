@@ -5,9 +5,7 @@ using NorthWind.Entities.Interfaces;
 using Microsoft.Extensions.DependencyInjection;
 
 var Builder = Host.CreateApplicationBuilder();
-Builder.Services.AddConsoleWriter();
-Builder.Services.AddDebugWriter();
-Builder.Services.AddFileWriter();
+Builder.Services.AddNorthWindServices();
 Builder.Services.AddSingleton<AppLogger>();
 Builder.Services.AddSingleton<ProductService>();
 using var AppHost = Builder.Build();

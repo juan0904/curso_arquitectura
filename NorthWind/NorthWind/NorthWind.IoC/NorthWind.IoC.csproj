@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Northwind.Writers\Northwind.Writers.csproj" />
+  </ItemGroup>
+
 </Project>
